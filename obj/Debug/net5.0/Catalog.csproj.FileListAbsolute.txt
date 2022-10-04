@@ -26,3 +26,11 @@ C:\Users\Sebastian\Desktop\Coding\Catalog\obj\Debug\net5.0\refint\Catalog.dll
 C:\Users\Sebastian\Desktop\Coding\Catalog\obj\Debug\net5.0\Catalog.pdb
 C:\Users\Sebastian\Desktop\Coding\Catalog\obj\Debug\net5.0\Catalog.genruntimeconfig.cache
 C:\Users\Sebastian\Desktop\Coding\Catalog\obj\Debug\net5.0\ref\Catalog.dll
+C:\Users\Sebastian\Desktop\Coding\Catalog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sebastian\Desktop\Coding\Catalog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Sebastian\Desktop\Coding\Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sebastian\Desktop\Coding\Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sebastian\Desktop\Coding\Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sebastian\Desktop\Coding\Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sebastian\Desktop\Coding\Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sebastian\Desktop\Coding\Catalog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll

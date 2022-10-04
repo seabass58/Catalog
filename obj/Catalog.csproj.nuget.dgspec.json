@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\Catalog.csproj": {}
+    "C:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\Catalog.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\Catalog.csproj": {
+    "C:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\Catalog.csproj",
+        "projectUniqueName": "C:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\Catalog.csproj",
         "projectName": "Catalog",
-        "projectPath": "c:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\Catalog.csproj",
+        "projectPath": "C:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\Catalog.csproj",
         "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\obj\\",
+        "outputPath": "C:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
