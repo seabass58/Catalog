@@ -5,8 +5,6 @@ using Catalog.Entities;
 
 namespace Catalog.Repositories 
 {
-    
-
     public class InMemItemsRepository : IItemsRepository
     {
         private readonly List<Item> items = new()
@@ -34,7 +32,6 @@ namespace Catalog.Repositories
         public void UpdateItem(Item item)
         {
             var index = items.FindIndex(existingItem => existingItem.Id == item.Id);
-
             items[index] = item;
         }
 
