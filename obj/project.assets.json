@@ -1729,11 +1729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\Catalog.csproj",
+      "projectUniqueName": "C:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\Catalog\\Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "C:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\Catalog.csproj",
+      "projectPath": "C:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\Catalog\\Catalog.csproj",
       "packagesPath": "C:\\Users\\Sebastian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\obj\\",
+      "outputPath": "C:\\Users\\Sebastian\\Desktop\\Coding\\Catalog\\Catalog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
