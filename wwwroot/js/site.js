@@ -1,5 +1,6 @@
 const uri = 'items';
 let todos = [];
+let randomTodos = [];
 
 function getItems() {
 
@@ -154,3 +155,32 @@ function _displayItems(data) {
   todos = data;
   
 }
+
+
+
+// function displayRandomItem(data) {
+//   const tBody = document.getElementById('todos');
+//   tBody.innerHTML = '';
+
+//   data.forEach(item => {
+
+//     let isCompleteCheckbox = document.createElement('input');
+//     isCompleteCheckbox.type = 'checkbox';
+//     isCompleteCheckbox.disabled = true;
+//     isCompleteCheckbox.checked = item.isComplete;
+
+//     let tr = tBody.insertRow();
+
+//     let td1 = tr.insertCell(0);
+//     let textNode = document.createTextNode(item.name);
+//     td1.appendChild(textNode);
+
+//     let td2 = tr.insertCell(1);
+//     let priceNode = document.createTextNode(item.price);
+//     td2.appendChild(priceNode);
+
+//   });
+
+//   todos = data;
+  
+// }
